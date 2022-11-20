@@ -1,0 +1,40 @@
+ body{
+   margin: 0;
+   padding: 0;
+   font-family: 'Courier New', Courier, monospace;
+   background-color: black;
+ }
+ 
+
+ /* nav bar edits(Beginning) */
+ #navDiv{
+    background-color: rgb(233, 130, 45);
+ }
+
+ #nav td h2{
+  color: rgb(0, 0, 0);
+ }
+
+ #nav td a {
+  color: rgb(6, 78, 39);
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 4px;
+    font-weight: bold;
+ }
+
+ #nav td a:hover{
+   padding: 2px;
+   border: 2px solid rgb(2, 2, 2);
+ }
+ /* end of nav bar edits */
+
+button{
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-weight: bold;
+    border: none;
+}
+button:hover{
+  background-color: cyan;
+}

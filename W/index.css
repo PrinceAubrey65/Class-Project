@@ -1,0 +1,12 @@
+img{
+    border-radius: 25px;
+}
+
+ol li a{
+    text-decoration: none;
+  }
+  
+  ol li a:hover{
+    color: yellow;
+    font-weight: bolder;
+  }
